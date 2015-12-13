@@ -1,0 +1,11 @@
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AndroidRemote\AutomationServerAPI-Andriod\bin\Release\AutomationServerAPI-Andriod.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AndroidRemote\AutomationServerAPI-Andriod\bin\Release\AutomationServerAPI-Andriod.pdb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AndroidRemote\AutomationServerAPI-Andriod\bin\Release\AutomationServerAPI_Andriod.AutomationServerAPI_Andriod.apk
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AndroidRemote\AutomationServerAPI-Andriod\bin\Release\AutomationServerAPI_Andriod.AutomationServerAPI_Andriod-Signed.apk
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AndroidRemote\AutomationServerAPI-Andriod\obj\Release\AutomationServerAPI-Andriod.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AndroidRemote\AutomationServerAPI-Andriod\obj\Release\AutomationServerAPI-Andriod.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AndroidRemote\AutomationServerAPI-Andriod\obj\Release\AutomationServerAPI-Andriod.pdb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AndroidRemote\AutomationServerAPI-Andriod\obj\Release\android\bin\AutomationServerAPI_Andriod.AutomationServerAPI_Andriod.apk
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AndroidRemote\AutomationServerAPI-Andriod\obj\Release\res\values\strings.xml
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AndroidRemote\AutomationServerAPI-Andriod\obj\Release\R.cs.flag
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AndroidRemote\AutomationServerAPI-Andriod\obj\Release\uploadflags.txt

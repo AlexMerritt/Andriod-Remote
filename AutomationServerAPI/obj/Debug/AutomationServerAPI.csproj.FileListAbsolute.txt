@@ -1,0 +1,5 @@
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AndroidRemote\AutomationServerAPI\bin\Debug\AutomationServerAPI.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AndroidRemote\AutomationServerAPI\bin\Debug\AutomationServerAPI.pdb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AndroidRemote\AutomationServerAPI\obj\Debug\AutomationServerAPI.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AndroidRemote\AutomationServerAPI\obj\Debug\AutomationServerAPI.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AndroidRemote\AutomationServerAPI\obj\Debug\AutomationServerAPI.pdb

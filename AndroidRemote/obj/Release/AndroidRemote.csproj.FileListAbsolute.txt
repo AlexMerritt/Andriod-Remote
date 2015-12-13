@@ -1,0 +1,15 @@
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AndroidRemote\AndroidRemote\bin\Release\AndroidRemote.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AndroidRemote\AndroidRemote\bin\Release\AndroidRemote.pdb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AndroidRemote\AndroidRemote\bin\Release\AndroidRemote.AndroidRemote.apk
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AndroidRemote\AndroidRemote\bin\Release\AndroidRemote.AndroidRemote-Signed.apk
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AndroidRemote\AndroidRemote\bin\Release\AutomationServerAPI-Andriod.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AndroidRemote\AndroidRemote\bin\Release\AutomationServerAPI-Andriod.pdb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AndroidRemote\AndroidRemote\obj\Release\AndroidRemote.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AndroidRemote\AndroidRemote\obj\Release\AndroidRemote.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AndroidRemote\AndroidRemote\obj\Release\AndroidRemote.pdb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AndroidRemote\AndroidRemote\obj\Release\android\bin\AndroidRemote.AndroidRemote.apk
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AndroidRemote\AndroidRemote\obj\Release\res\layout\main.xml
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AndroidRemote\AndroidRemote\obj\Release\res\values\strings.xml
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AndroidRemote\AndroidRemote\obj\Release\res\drawable\icon.png
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AndroidRemote\AndroidRemote\obj\Release\R.cs.flag
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AndroidRemote\AndroidRemote\obj\Release\uploadflags.txt

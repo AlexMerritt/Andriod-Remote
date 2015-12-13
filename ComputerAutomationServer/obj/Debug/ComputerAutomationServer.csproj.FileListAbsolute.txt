@@ -1,0 +1,9 @@
+c:\users\alex\documents\visual studio 2015\Projects\ComputerAutomationServer\ComputerAutomationServer\bin\Debug\ComputerAutomationServer.exe.config
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AndroidRemote\ComputerAutomationServer\bin\Debug\ComputerAutomationServer.exe.config
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AndroidRemote\ComputerAutomationServer\bin\Debug\ComputerAutomationServer.exe
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AndroidRemote\ComputerAutomationServer\bin\Debug\ComputerAutomationServer.pdb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AndroidRemote\ComputerAutomationServer\bin\Debug\AutomationServerAPI.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AndroidRemote\ComputerAutomationServer\bin\Debug\AutomationServerAPI.pdb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AndroidRemote\ComputerAutomationServer\obj\Debug\ComputerAutomationServer.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AndroidRemote\ComputerAutomationServer\obj\Debug\ComputerAutomationServer.exe
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AndroidRemote\ComputerAutomationServer\obj\Debug\ComputerAutomationServer.pdb

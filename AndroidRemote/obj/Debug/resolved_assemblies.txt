@@ -1,0 +1,8 @@
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AndroidRemote\AndroidRemote\obj\Debug\assemblies\AndroidRemote.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AndroidRemote\AndroidRemote\obj\Debug\assemblies\AutomationServerAPI-Andriod.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AndroidRemote\AndroidRemote\obj\Debug\assemblies\Mono.Android.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AndroidRemote\AndroidRemote\obj\Debug\assemblies\mscorlib.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AndroidRemote\AndroidRemote\obj\Debug\assemblies\System.Core.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AndroidRemote\AndroidRemote\obj\Debug\assemblies\System.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AndroidRemote\AndroidRemote\obj\Debug\assemblies\System.Xml.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AndroidRemote\AndroidRemote\obj\Debug\assemblies\System.Xml.Linq.dll

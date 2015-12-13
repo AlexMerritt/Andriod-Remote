@@ -1,0 +1,4 @@
+AndroidRemote.MainActivity, AndroidRemote;md55d593ac60824274cef9c572aa9fd1f00.MainActivity
+AndroidRemote.MainActivity, AndroidRemote, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md55d593ac60824274cef9c572aa9fd1f00.MainActivity
+AndroidRemote.MainActivity;md55d593ac60824274cef9c572aa9fd1f00.MainActivity
+androidremote.MainActivity;md55d593ac60824274cef9c572aa9fd1f00.MainActivity

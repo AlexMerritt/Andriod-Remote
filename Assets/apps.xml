@@ -1,0 +1,15 @@
+<apps>
+	<app>
+		<name>Guild Wars 2 (Alex)</name>
+		<path>C:\Program Files (x86)\Guild Wars 2\Gw2.exe</path>
+		<args>-email jumubers@yahoo.com -password time2wars -autologin</args>
+	</app>
+	<app>
+		<name>Guild Wars</name>
+		<path>C:\Program Files (x86)\Guild Wars\Gw.exe</path>
+	</app>
+	<app>
+		<name>Skype</name>
+		<path>C:\Program Files (x86)\Skype\Phone\Skype.exe</path>
+	</app>
+</apps>

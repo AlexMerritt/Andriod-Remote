@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComputerAutomationServer", "ComputerAutomationServer\ComputerAutomationServer.csproj", "{9CA667C1-33E0-4B17-8DD0-75F4903DA032}"
+	ProjectSection(ProjectDependencies) = postProject
+		{83B61E95-770A-475C-80BD-13EFD116BD90} = {83B61E95-770A-475C-80BD-13EFD116BD90}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomationServerAPI", "AutomationServerAPI\AutomationServerAPI.csproj", "{83B61E95-770A-475C-80BD-13EFD116BD90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CA667C1-33E0-4B17-8DD0-75F4903DA032}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CA667C1-33E0-4B17-8DD0-75F4903DA032}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CA667C1-33E0-4B17-8DD0-75F4903DA032}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CA667C1-33E0-4B17-8DD0-75F4903DA032}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83B61E95-770A-475C-80BD-13EFD116BD90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83B61E95-770A-475C-80BD-13EFD116BD90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83B61E95-770A-475C-80BD-13EFD116BD90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83B61E95-770A-475C-80BD-13EFD116BD90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

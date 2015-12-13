@@ -1,0 +1,11 @@
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AndroidRemote\AutomationServerAPI-Andriod\bin\Debug\AutomationServerAPI-Andriod.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AndroidRemote\AutomationServerAPI-Andriod\bin\Debug\AutomationServerAPI-Andriod.pdb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AndroidRemote\AutomationServerAPI-Andriod\bin\Debug\AutomationServerAPI_Andriod.AutomationServerAPI_Andriod.apk
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AndroidRemote\AutomationServerAPI-Andriod\bin\Debug\AutomationServerAPI_Andriod.AutomationServerAPI_Andriod-Signed.apk
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AndroidRemote\AutomationServerAPI-Andriod\obj\Debug\AutomationServerAPI-Andriod.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AndroidRemote\AutomationServerAPI-Andriod\obj\Debug\AutomationServerAPI-Andriod.pdb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AndroidRemote\AutomationServerAPI-Andriod\obj\Debug\android\bin\AutomationServerAPI_Andriod.AutomationServerAPI_Andriod.apk
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AndroidRemote\AutomationServerAPI-Andriod\obj\Debug\res\values\strings.xml
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AndroidRemote\AutomationServerAPI-Andriod\obj\Debug\R.cs.flag
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AndroidRemote\AutomationServerAPI-Andriod\obj\Debug\uploadflags.txt
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\AndroidRemote\AutomationServerAPI-Andriod\obj\Debug\AutomationServerAPI-Andriod.csprojResolveAssemblyReference.cache
